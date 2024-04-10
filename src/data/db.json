@@ -1,0 +1,44 @@
+{
+  "students": [
+    {
+      "id": "2faa",
+      "name": "shardha",
+      "age": "14",
+      "grade": "A+",
+      "email": "shardha@gmail.com",
+      "course": "Computer Science"
+    },
+    {
+      "id": "6a49",
+      "name": "Dhanshri",
+      "age": "14",
+      "grade": "A",
+      "email": "dhanshri@gmail.com",
+      "course": "electronics"
+    },
+    {
+      "id": "1857",
+      "name": "Akshay",
+      "age": "15",
+      "grade": "B",
+      "email": "akshay@gmail.com",
+      "course": "Mechanical"
+    },
+    {
+      "id": "a5ef",
+      "name": "vishal ",
+      "age": "16",
+      "grade": "C",
+      "email": "vishal@gmail.com",
+      "course": "civil"
+    },
+    {
+      "id": "5417",
+      "name": "Artitt",
+      "age": "14",
+      "grade": "A",
+      "email": "arti@gmail.com",
+      "course": "computer science"
+    }
+  ]
+}

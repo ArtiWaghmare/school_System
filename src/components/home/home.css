@@ -1,0 +1,17 @@
+.background-color{
+    background-color: rgb(139, 139, 212);
+    height: 100vh;
+}
+.text{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: yellow;
+}
+.images{
+ width: 50%;
+margin:40px auto;
+text-align: center;
+float: right;
+margin-right: 350px;
+}
